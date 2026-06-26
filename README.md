@@ -31,35 +31,34 @@
 
 
 ---
-## ⭐ Featured Projects
-
 <a href="https://github.com/AmishaaaPaliwal/KalaSarthi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavGoel28&repo=KalaSarthi&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavGoel28&repo=KalaSarthi&theme=tokyonight"/>
 </a>
 
-### 🎨 KalaSarthi — AI Marketplace Assistant
+**🥈 KalaSarthi — AI Marketplace Assistant**
 
-🥈 **2nd Runner-Up, Google Cloud Gen AI Exchange Hackathon 2025**
-- Top **3** among **270,000+ developers** and **4,457 prototypes**.
-- Built a scalable backend service using **vector similarity search** to organize data from multiple sources.
-- Powered AI-driven product recommendations through semantic retrieval and intelligent search.
+Top **3** among **270K+ developers** in the Google Cloud Gen AI Exchange Hackathon 2025.
 
-**Tech:** Python • FastAPI • FAISS • LangChain • Vertex AI • REST APIs
+• Built a scalable backend using **FastAPI + FAISS vector search** to organize multimodal marketplace data.
 
+• Powered **AI-driven product recommendations** through semantic retrieval and intelligent search.
+
+`Python` • `FastAPI` • `LangChain` • `FAISS` • `Vertex AI`
 ---
 
 <a href="https://github.com/AmishaaaPaliwal/Agentic-Ai-Hackathon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmishaaaPaliwal&repo=Agentic-Ai-Hackathon&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmishaaaPaliwal&repo=Agentic-Ai-Hackathon&theme=tokyonight"/>
 </a>
 
-### 🏆 GuruMitra — Offline-First Multilingual AI Assistant
+**🥇 GuruMitra — Offline-First Multilingual AI Assistant**
 
-🥇 **Winner, Google Agentic AI Hackathon 2025**
-- Ranked **#1** among **57,000+ participants** and **9,000+ submissions**.
-- Architected a **distributed multi-agent system** with hybrid local inference and cloud fallback.
-- Designed reliable synchronization between on-device and cloud agents for low-connectivity environments.
+Winner of the **Google Agentic AI Hackathon 2025**, ranked **#1** among **57K+ participants**.
 
-**Tech:** Python • LangGraph • Gemini • Google Cloud • Agentic AI
+• Architected a **distributed multi-agent system** with hybrid local inference and cloud fallback.
+
+• Built an offline-first AI assistant for multilingual support in low-connectivity environments.
+
+`Python` • `LangGraph` • `Gemini` • `Google Cloud`
 ---
 
 ## 📊 GitHub Analytics

@@ -1,31 +1,132 @@
-# Hi, I'm Amisha Paliwal 
+# GitHub Profile Enhancements
 
-🎯 [Role you're targeting] — e.g. "Backend Developer focused on scalable APIs"
+## 🔥 Animated Badges
 
-🔧 **Currently working on:** [project name + 1-line description]
-📚 **Currently learning:** [tech]
-💬 **Ask me about:** [your strengths]
-📫 **Reach me:** [LinkedIn] · [Email] · [Portfolio]
+```md
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmishaaaPaliwal&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/AmishaaaPaliwal?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Google%20GenAI%20Exchange-2nd%20Runner%20Up-blue?style=for-the-badge&logo=googlecloud" />
+  <img src="https://img.shields.io/badge/Google%20Agentic%20AI-Winner-success?style=for-the-badge&logo=google" />
+</p>
+```
 
-## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+---
 
-<!-- use shields.io badges -->
+(Replace "Coming Soon" with your GitHub repository once it's public.)
 
-## 📌 Featured Projects
-### [KalaSarthi](https://github.com/AmishaaaPaliwal/KalaSarthi.git)
-AI Marketplace Assistant
-• 2nd Runner Up, Google Gen AI Exchange Hackathon 2025: top 3 among 270,000+ developers and 4,457
-prototypes.
-• Built a scalable backend service using vector similarity search to structure data from multiple sources,
-powering AI-driven product recommendations.
+---
 
-### [GuruMitra](https://github.com/AmishaaaPaliwal/Agentic-AI-Hackathon.git)
-Offline-First Multilingual AI Assistant
-• 1st Place, Google Agentic AI Hackathon 2025: ranked #1 among 57,000+ participants and 9,000+
-submissions.
-• Architected a distributed multi-agent system with a hybrid local-inference and cloud-fallback design, requiring
-careful synchronization between local and remote execution paths under variable connectivity.
+## 💻 Tech Stack (Icons)
 
+```md
+## 💻 Tech Stack
 
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,fastapi,flask,postgres,mongodb,docker,git,github,gcp,linux,vscode&perline=7"/>
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+- LangChain
+- Gemini API
+- Vertex AI
+- Vector Databases
+- RAG
+- Multi-Agent Systems
+```
+
+---
+
+## 📊 GitHub Analytics
+
+```md
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmishaaaPaliwal&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmishaaaPaliwal&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=AmishaaaPaliwal&theme=tokyonight"/>
+
+</p>
+```
+
+---
+
+## ⭐ Featured Projects
+
+Use project cards instead of plain text.
+
+```md
+## ⭐ Featured Projects
+
+<a href="https://github.com/AmishaaaPaliwal/KalaSarthi">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavGoel28&repo=KalaSarthi&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/AmishaaaPaliwal/Agentic-Ai-Hackatjon">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=GuruMitra&theme=tokyonight"/>
+</a>
+```
+
+---
+
+## 🖼️ Project Screenshots
+
+```md
+### KalaSarthi
+
+<p align="center">
+<img src="images/kalasarthi-demo.gif" width="700"/>
+</p>
+
+---
+
+### GuruMitra
+
+<p align="center">
+<img src="images/gurumitra-demo.gif" width="700"/>
+</p>
+```
+
+Store the GIFs in:
+
+```
+README.md
+images/
+    kalasarthi-demo.gif
+    gurumitra-demo.gif
+```
+
+---
+
+## 🤝 Connect with Me
+
+```md
+## 🌐 Connect with Me
+
+<p>
+<a href="https://linkedin.com/in/amisha-paliwal">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:amishapaliwal11@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+</p>
+```

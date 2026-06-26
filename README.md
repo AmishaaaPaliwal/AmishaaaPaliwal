@@ -22,11 +22,12 @@
 </p>
 
 - LangChain
-- Gemini API
-- Vertex AI
+- LanGraph
+- Agentic AI
 - Vector Databases
 - RAG
 - Multi-Agent Systems
+- LLM
 
 
 

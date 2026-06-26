@@ -1,4 +1,17 @@
 <p align="center">
+  <a href="https://www.linkedin.com/in/amisha-paliwal">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+  </a>
+
+  <a href="mailto:amishapaliwal11@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+  </a>
+
+</p>
+
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=AmishaaaPaliwal&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Google%20GenAI%20Exchange-2nd%20Runner%20Up-blue?style=for-the-badge&logo=googlecloud" />
   <img src="https://img.shields.io/badge/Google%20Agentic%20AI-Winner-success?style=for-the-badge&logo=google" />
@@ -89,10 +102,6 @@ Winner of the **Google Agentic AI Hackathon 2025**, ranked **#1** among **57K+ p
 ## 🌐 Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/amisha-paliwal">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
 <a href="mailto:amishapaliwal11@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>

@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AmishaaaPaliwal&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/AmishaaaPaliwal?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Google%20GenAI%20Exchange-2nd%20Runner%20Up-blue?style=for-the-badge&logo=googlecloud" />
   <img src="https://img.shields.io/badge/Google%20Agentic%20AI-Winner-success?style=for-the-badge&logo=google" />
 </p>
@@ -28,7 +27,14 @@
 - RAG
 - Multi-Agent Systems
 - LLM
+---
+## 🏆 Achievements
 
+- 🥇 **Winner** — Google Agentic AI Hackathon 2025
+  - 📜 [Certificate](https://certificate.hack2skill.com/user/aidaywinner2/2025H2S06AID-W200004)
+
+- 🥈 **2nd Runner-Up** — Google Cloud Gen AI Exchange Hackathon 2025
+  - 📜 [Certificate](https://drive.google.com/file/d/1DReJeQcjDCe3ELN5gH6kc3hDcaXqCBEO/view)
 
 
 ---
@@ -91,8 +97,6 @@ Winner of the **Google Agentic AI Hackathon 2025**, ranked **#1** among **57K+ p
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
-</a>
+
 </p>
 

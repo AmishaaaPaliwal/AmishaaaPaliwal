@@ -1,25 +1,18 @@
 # GitHub Profile Enhancements
 
-## 🔥 Animated Badges
 
-```md
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AmishaaaPaliwal&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/AmishaaaPaliwal?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Google%20GenAI%20Exchange-2nd%20Runner%20Up-blue?style=for-the-badge&logo=googlecloud" />
   <img src="https://img.shields.io/badge/Google%20Agentic%20AI-Winner-success?style=for-the-badge&logo=google" />
 </p>
-```
 
----
 
-(Replace "Coming Soon" with your GitHub repository once it's public.)
 
----
 
-## 💻 Tech Stack (Icons)
 
-```md
 ## 💻 Tech Stack
 
 <p>
@@ -38,13 +31,10 @@
 - Vector Databases
 - RAG
 - Multi-Agent Systems
-```
+
 
 ---
 
-## 📊 GitHub Analytics
-
-```md
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -60,15 +50,11 @@
 <img src="https://streak-stats.demolab.com?user=AmishaaaPaliwal&theme=tokyonight"/>
 
 </p>
-```
+
 
 ---
 
-## ⭐ Featured Projects
 
-Use project cards instead of plain text.
-
-```md
 ## ⭐ Featured Projects
 
 <a href="https://github.com/AmishaaaPaliwal/KalaSarthi">
@@ -78,13 +64,13 @@ Use project cards instead of plain text.
 <a href="https://github.com/AmishaaaPaliwal/Agentic-Ai-Hackatjon">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=GuruMitra&theme=tokyonight"/>
 </a>
-```
+
 
 ---
 
 ## 🖼️ Project Screenshots
 
-```md
+
 ### KalaSarthi
 
 <p align="center">
@@ -98,22 +84,17 @@ Use project cards instead of plain text.
 <p align="center">
 <img src="images/gurumitra-demo.gif" width="700"/>
 </p>
-```
 
-Store the GIFs in:
 
-```
+
 README.md
 images/
     kalasarthi-demo.gif
     gurumitra-demo.gif
-```
+
 
 ---
 
-## 🤝 Connect with Me
-
-```md
 ## 🌐 Connect with Me
 
 <p>
@@ -129,4 +110,4 @@ images/
 <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
 </a>
 </p>
-```
+

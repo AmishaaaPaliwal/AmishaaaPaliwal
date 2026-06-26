@@ -31,49 +31,35 @@
 
 
 ---
-
-
 ## ⭐ Featured Projects
 
 <a href="https://github.com/AmishaaaPaliwal/KalaSarthi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavGoel28&repo=KalaSarthi&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavGoel28&repo=KalaSarthi&theme=tokyonight" />
 </a>
-
-<a href="https://github.com/AmishaaaPaliwal/Agentic-Ai-Hackatjon">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=GuruMitra&theme=tokyonight"/>
-</a>
-
-
----
-
-### 🏆 GuruMitra — Offline-First Multilingual AI Assistant
-
-🥇 **Winner — Google Agentic AI Hackathon 2025**
-
-> **#1 among 57,000+ participants and 9,000+ submissions**
-
-* Architected a **distributed multi-agent system** with a hybrid local-inference and cloud-fallback design.
-* Designed synchronization between on-device and cloud execution paths for reliable AI assistance under intermittent connectivity.
-* Built an offline-first architecture to deliver multilingual AI support for teachers in low-connectivity regions.
-
-**Tech:** Python • LangGraph • Agentic AI • Gemini • Google Cloud
-
----
 
 ### 🎨 KalaSarthi — AI Marketplace Assistant
 
-🥈 **2nd Runner-Up — Google Cloud Gen AI Exchange Hackathon 2025**
-
-> **Top 3 among 270,000+ developers and 4,457 prototypes**
-
-* Built a scalable backend service using **vector similarity search** to organize data from multiple sources.
-* Powered AI-driven product recommendations through semantic retrieval and intelligent search.
-* Designed backend APIs to support multilingual AI interactions for artisan marketplaces.
+🥈 **2nd Runner-Up, Google Cloud Gen AI Exchange Hackathon 2025**
+- Top **3** among **270,000+ developers** and **4,457 prototypes**.
+- Built a scalable backend service using **vector similarity search** to organize data from multiple sources.
+- Powered AI-driven product recommendations through semantic retrieval and intelligent search.
 
 **Tech:** Python • FastAPI • FAISS • LangChain • Vertex AI • REST APIs
 
+---
 
+<a href="https://github.com/AmishaaaPaliwal/Agentic-Ai-Hackathon">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmishaaaPaliwal&repo=Agentic-Ai-Hackathon&theme=tokyonight" />
+</a>
 
+### 🏆 GuruMitra — Offline-First Multilingual AI Assistant
+
+🥇 **Winner, Google Agentic AI Hackathon 2025**
+- Ranked **#1** among **57,000+ participants** and **9,000+ submissions**.
+- Architected a **distributed multi-agent system** with hybrid local inference and cloud fallback.
+- Designed reliable synchronization between on-device and cloud agents for low-connectivity environments.
+
+**Tech:** Python • LangGraph • Gemini • Google Cloud • Agentic AI
 ---
 
 ## 📊 GitHub Analytics

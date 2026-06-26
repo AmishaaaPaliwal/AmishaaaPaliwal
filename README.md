@@ -1,7 +1,3 @@
-# GitHub Profile Enhancements
-
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AmishaaaPaliwal&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/AmishaaaPaliwal?style=for-the-badge&logo=github" />
@@ -33,24 +29,6 @@
 - Multi-Agent Systems
 
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmishaaaPaliwal&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmishaaaPaliwal&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AmishaaaPaliwal&theme=tokyonight"/>
-
-</p>
-
 
 ---
 
@@ -68,30 +46,51 @@
 
 ---
 
-## 🖼️ Project Screenshots
+### 🏆 GuruMitra — Offline-First Multilingual AI Assistant
 
+🥇 **Winner — Google Agentic AI Hackathon 2025**
 
-### KalaSarthi
+> **#1 among 57,000+ participants and 9,000+ submissions**
 
-<p align="center">
-<img src="images/kalasarthi-demo.gif" width="700"/>
-</p>
+* Architected a **distributed multi-agent system** with a hybrid local-inference and cloud-fallback design.
+* Designed synchronization between on-device and cloud execution paths for reliable AI assistance under intermittent connectivity.
+* Built an offline-first architecture to deliver multilingual AI support for teachers in low-connectivity regions.
+
+**Tech:** Python • LangGraph • Agentic AI • Gemini • Google Cloud
 
 ---
 
-### GuruMitra
+### 🎨 KalaSarthi — AI Marketplace Assistant
+
+🥈 **2nd Runner-Up — Google Cloud Gen AI Exchange Hackathon 2025**
+
+> **Top 3 among 270,000+ developers and 4,457 prototypes**
+
+* Built a scalable backend service using **vector similarity search** to organize data from multiple sources.
+* Powered AI-driven product recommendations through semantic retrieval and intelligent search.
+* Designed backend APIs to support multilingual AI interactions for artisan marketplaces.
+
+**Tech:** Python • FastAPI • FAISS • LangChain • Vertex AI • REST APIs
+
+
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="images/gurumitra-demo.gif" width="700"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmishaaaPaliwal&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmishaaaPaliwal&layout=compact&theme=tokyonight"/>
+
 </p>
 
+<p align="center">
 
+<img src="https://streak-stats.demolab.com?user=AmishaaaPaliwal&theme=tokyonight"/>
 
-README.md
-images/
-    kalasarthi-demo.gif
-    gurumitra-demo.gif
-
+</p>
 
 ---
 

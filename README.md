@@ -10,7 +10,6 @@
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 <!-- use shields.io badges -->
 
